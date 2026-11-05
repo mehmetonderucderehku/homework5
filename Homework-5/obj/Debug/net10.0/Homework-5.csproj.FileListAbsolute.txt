@@ -1,0 +1,15 @@
+C:\Users\monde\source\repos\Homework-5\Homework-5\bin\Debug\net10.0\Homework-5.exe
+C:\Users\monde\source\repos\Homework-5\Homework-5\bin\Debug\net10.0\Homework-5.deps.json
+C:\Users\monde\source\repos\Homework-5\Homework-5\bin\Debug\net10.0\Homework-5.runtimeconfig.json
+C:\Users\monde\source\repos\Homework-5\Homework-5\bin\Debug\net10.0\Homework-5.dll
+C:\Users\monde\source\repos\Homework-5\Homework-5\bin\Debug\net10.0\Homework-5.pdb
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.AssemblyInfoInputs.cache
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.AssemblyInfo.cs
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.csproj.CoreCompileInputs.cache
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.dll
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\refint\Homework-5.dll
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.pdb
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.genruntimeconfig.cache
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\ref\Homework-5.dll
+C:\Users\monde\source\repos\Homework-5\Homework-5\obj\Debug\net10.0\Homework-5.csproj.Up2Date
